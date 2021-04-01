@@ -70,23 +70,18 @@
 
 - Modeling Personalized Item Frequency Information for Next-basket Recommendation.
   SIGIR 2020
-  借助item频率的Next-basket
 
 - Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation.
   SIGIR 2020
-  sq + kg
 
 - GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation.
   SIGIR 2020
-  streaming session-based recommendation
 
 - Next-item Recommendation with Sequential Hypergraphs.
   SIGIR 2020
-  hypergraph
 
 - A General Network Compression Framework for Sequential Recommender Systems.
   SIGIR 2020
-  sequential recommendations 压缩
 
 - Make It a Chorus: Knowledge- and Time-aware Item Modeling for Sequential Recommendation.
   SIGIR 2020
@@ -96,76 +91,60 @@
 
 - Self-Supervised Reinforcement Learning for Recommender Systems.
   SIGIR 2020
-  self-supervised + reinforcement
 
 - Time Matters: Sequential Recommendation with Complex Temporal Information.
   SIGIR 2020
-  time-aware sr
 
 - Controllable Multi-Interest Framework for Recommendation.
   KDD 2020
-  多兴趣
 
 - Disentangled Self-Supervision in Sequential Recommenders.
   KDD 2020
-  多兴趣
 
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation.
   KDD 2020
-  Graph
 
 - Contextual and Sequential User Embeddings for Large-Scale Music Recommendation.
   RecSys 2020
-  针对music
 
 - FISSA:Fusing Item Similarity Models with Self-Attention Networks for Sequential Recommendation.
   RecSys 2020
-  在SASRec的基础上融合物品相似性
 
 - From the lab to production: A case study of session-based recommendations in the home-improvement domain.
   RecSys 2020
-  对一些session-based方法评测分析
 
 - Recommending the Video to Watch Next: An Offline and Online Evaluation at YOUTV.de.
   RecSys 2020
-  基于markov chain的方法
 
 - SSE-PT:Sequential Recommendation Via Personalized Transformer.
   RecSys 2020
-  对于SASRec的改进
 
 - Improving End-to-End Sequential Recommendations with Intent-aware Diversification.
   CIKM 2020
 
 - Quaternion-based self-Attentive Long Short-term User Preference Encoding for Recommendation.
   CIKM 2020
-  Quaternion捕捉长短期兴趣
 
 - Sequential Recommender via Time-aware Attentive Memory Network.
   CIKM 2020
-  Time-aware
 
 - Star Graph Neural Networks for Session-based Recommendation.
   CIKM 2020
-  Graph for
 
 - Dynamic Memory Based Attention Network for Sequential Recommendation.
   AAAI 2021
 
 - Noninvasive Self-Attention for Side Information Fusion in Sequential Recommendation.
   AAAI 2021
-  BERT + context
 
 - Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation.
   AAAI 2021
 
 - An Efficient and Effective Framework for Session-based Social Recommendation.
   WSDM 2021
-  social + session-based recommendations 水文
 
 - Sparse-Interest Network for Sequential Recommendation.
   WSDM 2021
-  多兴趣
 
 - Dynamic Embeddings for Interaction Prediction.
   WWW 2021
@@ -178,16 +157,83 @@
 
 - Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.
   WWW 2021
-  VAE
 
 - Future-Aware Diverse Trends Framework for Recommendation.
   WWW 2021
-  feature-aware
 
 - DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce.
   WWW 2021
-  Privacy-Preserving
 
 - Linear-Time Self Attention with Codeword Histogram for Efficient Recommendation.
   WWW 2021
-  线性时间的SA, 速度快
+
+
+### Knowledge-aware Recommendations
+
+- CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems.
+  SIGIR 2020
+
+- Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View.
+  SIGIR 2020
+
+- MVIN: Learning multiview items for recommendation.
+  SIGIR 2020
+
+- Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation.
+  SIGIR 2020
+
+- Joint Item Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network Approach.
+  SIGIR 2020
+
+- Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs.
+  SIGIR 2020
+
+- SimClusters Community-Based Representations for Heterogenous Recommendations at Twitter.
+  KDD 2020
+
+- Multi-modal Knowledge Graphs for Recommender Systems.
+  CIKM 2020
+
+- DisenHAN Disentangled Heterogeneous Graph Attention Network for Recommendation.
+  CIKM 2020
+
+- Genetic Meta-Structure Search for Recommendation on Heterogeneous Information Network.
+  CIKM 2020
+
+- TGCN Tag Graph Convolutional Network for Tag-Aware Recommendation.
+  CIKM 2020
+
+- Knowledge-Enhanced Top-K Recommendation in Poincaré Ball.
+  AAAI 2021
+
+- Graph Heterogeneous Multi-Relational Recommendation.
+  AAAI 2021
+
+- Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation.
+  AAAI 2021
+
+- Alleviating Cold-Start Problems in Recommendation through Pseudo-Labelling over Knowledge Graph.
+  WSDM2021
+
+- Decomposed Collaborative Filtering Modeling Explicit and Implicit Factors For Recommender Systems.
+  WSDM 2021
+
+- Temporal Meta-path Guided Explainable Recommendation.
+  WSDM 2021
+
+- Learning Intents behind Interactions with Knowledge Graph for Recommendation.
+  WWW 2021
+
+
+### Feature Interactions
+- Detecting Beneficial Feature Interactions for Recommender Systems.
+  AAAI 2021
+
+- DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving.
+  WSDM 2021
+
+- Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction.
+  WSDM 2021
+
+- FM^2: Field-matrixed Factorization Machines for CTR Prediction.
+  WWW 2021
