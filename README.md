@@ -598,3 +598,15 @@
 - On Target Item Sampling in Offline Recommender System Evaluation.
   RecSys 2020
 
+
+## Technique
+### Pre-training in Recommender System
+- S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization.
+  CIKM 2020
+
+- U-BERT Pre-Training User Representations for Improved Recommendation.
+  AAAI 2021
+
+- Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation.
+  WSDM 2021
+
