@@ -666,3 +666,57 @@
 - FedFast Going Beyond Average for Faster Training of Federated Recommender Systems.
   KDD 2020
 
+
+## Analysis
+- How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models.
+  SIGIR 2020
+
+- Agreement and Disagreement between True and False-Positive Metrics in Recommender Systems Evaluation.
+  SIGIR 2020
+
+- Critically Examining the Claimed Value of Convolutions over User-Item Embedding Maps for Recommender Systems.
+  CIKM 2020
+
+- On Estimating Recommendation Evaluation Metrics under Sampling.
+  AAAI 2021
+
+- Beyond Point Estimate Inferring Ensemble Prediction Variation from Neuron Activation Strength in Recommender Systems.
+  WSDM 2021
+
+- Bias-Variance Decomposition for Ranking.
+  WSDM 2021
+
+- Theoretical Understandings of Product Embedding for E-commerce Machine Learning.
+  WSDM 2021
+
+
+## Other
+- Learning Personalized Risk Preferences for Recommendation.
+  SIGIR 2020
+
+- Distributed Equivalent Substitution Training for Large-Scale Recommender Systems.
+  SIGIR 2020
+
+- Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation.
+  SIGIR 2020
+
+- How to Retrain a Recommender System?
+  SIGIR 2020
+
+- Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation.
+  SIGIR 2020
+
+- Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems.
+  KDD 2020
+
+- Improving Recommendation Quality in Google Drive.
+  KDD 2020
+
+- A Method to Anonymize Business Metrics to Publishing Implicit Feedback Datasets.
+  RecSys 2020
+
+- Exploiting Performance Estimates for Augmenting Recommendation Ensembles.
+  RecSys 2020
+
+- User Simulation via Supervised Generative Adversarial Network.
+  WWW 2021
