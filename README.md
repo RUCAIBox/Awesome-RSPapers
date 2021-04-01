@@ -578,3 +578,23 @@
 - A Model of Two Tales: Dual Transfer Learning Framework for Improved Long-tail Item Recommendation.
   WWW 2021
 
+
+### Evaluation
+- Measuring Recommendation Explanation Quality: The Conflicting Goals of Explanations.
+  SIGIR 2020
+
+- Evaluating Conversational Recommender Systems via User Simulation.
+  KDD 2020
+
+- On Sampled Metrics for Item Recommendation.
+  KDD 2020
+
+- On Sampling Top-K Recommendation Evaluation.
+  KDD 2020
+
+- Are We Evaluating Rigorously： Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison.
+  RecSys 2020
+
+- On Target Item Sampling in Offline Recommender System Evaluation.
+  RecSys 2020
+
