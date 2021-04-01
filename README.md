@@ -351,5 +351,32 @@
 
 - Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation.
   SIGIR 2020
-  sequential group recommendation
-  
+
+
+### Multi-task/Multi-behavior/Cross-domain Recommendations
+- Transfer Learning via Contextual Invariants for One-to-Many Cross-Domain Recommendation.
+  SIGIR 2020
+
+- CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network.
+  SIGIR 2020
+
+- Multi-behavior Recommendation with Graph Convolution Networks.
+  SIGIR 2020
+
+- Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation.
+  SIGIR 2020
+
+- Web-to-Voice Transfer for Product Recommendation on Voice.
+  SIGIR 2020
+
+- Jointly Learning to Recommend and Advertise.
+  KDD 2020
+
+- Progressive Layered Extraction (PLE) A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations.
+  RecSys 2020
+
+- Whole-Chain Recommendations.
+  CIKM 2020
+
+- Personalized Approximate Pareto-Efficient Recommendation.
+  WWW 2021
