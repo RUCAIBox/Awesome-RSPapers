@@ -427,3 +427,57 @@
 
 - Diversified Recommendation Through Similarity-Guided Graph Neural Networks.
   WWW 2021
+
+
+## Topic
+### Debias in Recommender System
+- A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data.
+  SIGIR 2020
+
+- Measuring and Mitigating Item Under-Recommendation Bias in Personalized Ranking Systems.
+  SIGIR 2020
+
+- Attribute-based Propensity for Unbiased Learning in Recommender Systems Algorithm and Case Studies.
+  KDD 2020
+
+- Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions.
+  KDD 2020
+
+- Debiasing Item-to-Item Recommendations With Small Annotated Datasets.
+  RecSys 2020
+
+- Keeping Dataset Biases out of the Simulation : A Debiased Simulator for Reinforcement Learning based Recommender Systems.
+  RecSys 2020
+
+- Unbiased Ad Click Prediction for Position-aware Advertising Systems.
+  RecSys 2020
+
+- Unbiased Learning for the Causal Effect of Recommendation.
+  RecSys 2020
+
+- E-commerce Recommendation with Weighted Expected Utility.
+  CIKM 2020
+
+- Popularity-Opportunity Bias in Collaborative Filtering.
+  WSDM 2021
+
+- Combating Selection Biases in Recommender Systems with a Few Unbiased Ratings.
+  WSDM 2021
+
+- Leave No User Behind Towards Improving the Utility of Recommender Systems for Non-mainstream Users.
+  WSDM 2021
+
+- Non-Clicks Mean Irrelevant Propensity Ratio Scoring As a Correction.
+  WSDM 2021
+
+- Diverse User Preference Elicitation with Multi-Armed Bandits.
+  WSDM 2021
+
+- Unbiased Learning to Rank in Feeds Recommendation.
+  WSDM 2021
+
+- Cross-Positional Attention for Debiasing Clicks.
+  WWW 2021
+
+- Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
+  WWW 2021
