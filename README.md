@@ -340,3 +340,16 @@
 
 - A Hybrid Bandit Framework for Diversified Recommendation.
   AAAI 2021
+
+
+### Group Recommendation
+- GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation.
+  SIGIR 2020
+
+- GroupIM: A Mutual Information Maximizing Framework for Neural Group Recommendation.
+  SIGIR 2020
+
+- Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation.
+  SIGIR 2020
+  sequential group recommendation
+  
