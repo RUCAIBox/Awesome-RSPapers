@@ -237,3 +237,26 @@
 
 - FM^2: Field-matrixed Factorization Machines for CTR Prediction.
   WWW 2021
+
+
+### Conversational Recommender System
+- Towards Question-based Recommender Systems.
+  SIGIR 2020
+
+- Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion.
+  KDD 2020
+
+- Interactive Path Reasoning on Graph for Conversational Recommendation.
+  KDD 2020
+
+- A Ranking Optimization Approach to Latent Linear Critiquing for Conversational Recommender Systems.
+  RecSys 2020
+
+- What does BERT know about books, movies and music： Probing BERT for Conversational Recommendation.
+  RecSys 2020
+
+- Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation.
+  WSDM 2021
+
+- A Workflow Analysis of Context-driven Conversational Recommendation.
+  WWW 2021
