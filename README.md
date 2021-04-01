@@ -610,3 +610,35 @@
 - Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation.
   WSDM 2021
 
+
+### Reinforcement Learning in Recommendations
+- MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations.
+  SIGIR 2020
+
+- Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.
+  SIGIR 2020
+
+- Joint Policy-Value Learning for Recommendation.
+  KDD 2020
+
+- BLOB: A Probabilistic Model for Recommendation that Combines Organic and Bandit Signals.
+  KDD 2020
+
+- Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication.
+  RecSys 2020
+
+- Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation.
+  AAAI 2021
+
+- User Response Models to Improve a REINFORCE Recommender System.
+  WSDM 2021
+
+- Cost-Effective and Interpretable Job Skill Recommendation with Deep Reinforcement Learning.
+  WWW 2021
+
+- A Multi-Agent Reinforcement Learning Framework for Intelligent Electric Vehicle Charging Recommendation.
+  WWW 2021
+
+- Reinforcement Recommendation with User Multi-aspect Preference.
+  WWW 2021
+
