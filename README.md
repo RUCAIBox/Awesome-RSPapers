@@ -310,7 +310,7 @@
   SIGIR 2020
 
 - Geography-Aware Sequential Location Recommendation.
-  KDD 2020 
+  KDD 2020
 
 - Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation.
   CIKM 2020
@@ -323,3 +323,20 @@
 
 - Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching.
   WWW 2021
+
+
+### Online Recommendations
+- Gemini: A novel and universal heterogeneous graph information fusing framework for online recommendations.
+  KDD 2020
+
+- Maximizing Cumulative User Engagement in Sequential Recommendation An Online Optimization Perspective.
+  KDD 2020
+
+- Exploring Clustering of Bandits for Online Recommendation System.
+  RecSys 2020
+
+- Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation.
+  RecSys 2020
+
+- A Hybrid Bandit Framework for Diversified Recommendation.
+  AAAI 2021
