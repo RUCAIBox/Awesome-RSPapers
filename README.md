@@ -505,3 +505,24 @@
 
 - User-oriented Group Fairness In Recommender Systems.
   WWW 2021
+
+
+### Attack in Recommender System
+- Revisiting Adversarially Learned Injection Attacks Against Recommender Systems.
+  RecSys 2020
+
+- Attacking Recommender Systems with Augmented User Profiles.
+  CIKM 2020
+
+- A Black-Box Attack Model for Visually-Aware Recommenders.
+  WSDM 2021
+
+- Denoising Implicit Feedback for Recommendation.
+  WSDM 2021
+
+- Adversarial Item Promotion: Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start.
+  WWW 2021
+
+- Graph Embedding for Recommendation against Attribute Inference Attacks.
+  WWW 2021
+
