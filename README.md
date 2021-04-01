@@ -260,3 +260,17 @@
 
 - A Workflow Analysis of Context-driven Conversational Recommendation.
   WWW 2021
+
+
+### Social Recommendations
+- Partial Relationship Aware Influence Diffusion via a Multi-channel Encoding Scheme for Social Recommendation.
+  CIKM 2020
+
+- Random Walks with Erasure: Diversifying Personalized Recommendations on Social and Information Networks.
+  WWW 2021
+
+- Dual Side Deep Context-aware Modulation for Social Recommendation.
+  WWW 2021
+
+- Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation.
+  WWW 2021
