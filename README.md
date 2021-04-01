@@ -552,3 +552,29 @@
 - Learning from User Feedback on Explanations to Improve Recommender Models.
   WWW 2021
 
+
+### Long-tail/Cold-start in Recommendations
+- Content-aware Neural Hashing for Cold-start Recommendation.
+  SIGIR 2020
+
+- MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation.
+  KDD 2020
+
+- Learning Transferrable Parameters for Long-tailed Sequential User Behavior Modeling.
+  KDD 2020
+
+- Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation.
+  KDD 2020
+
+- Cold-Start Sequential Recommendation via Meta Learner.
+  AAAI 2021
+
+- Personalized Adaptive Meta Learning for Cold-start User Preference Prediction.
+  AAAI 2021
+
+- Task-adaptive Neural Process for User Cold-Start Recommendation.
+  WWW 2021
+
+- A Model of Two Tales: Dual Transfer Learning Framework for Improved Long-tail Item Recommendation.
+  WWW 2021
+
