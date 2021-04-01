@@ -274,3 +274,29 @@
 
 - Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation.
   WWW 2021
+
+
+### News Recommendation
+
+- KRED:Knowledge-Aware Document Representation for News Recommendations.
+  RecSys 2020
+
+- News Recommendation with Topic-Enriched Knowledge Graphs.
+  CIKM 2020
+
+- The Interaction between Political Typology and Filter Bubbles in News Recommendation Algorithms.
+  WWW 2021
+
+
+### Text-aware Recommendations
+- TAFA: Two-headed Attention Fused Autoencoder for Context-Aware Recommendations.
+  RecSys 2020
+
+- Set-Sequence-Graph A Multi-View Approach Towards Exploiting Reviews for Recommendation.
+  CIKM 2020
+
+- TPR: Text-aware Preference Ranking for Recommender Systems.
+  CIKM 2020
+
+- Leveraging Review Properties for Effective Recommendation.
+  WWW 2021
