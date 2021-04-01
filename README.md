@@ -526,3 +526,29 @@
 - Graph Embedding for Recommendation against Attribute Inference Attacks.
   WWW 2021
 
+
+### Explanation in Recommender System
+- Try This Instead: Personalized and Interpretable Substitute Recommendation.
+  KDD 2020
+
+- CAFE: Coarse-to-Fine Neural Symbolic Reasoning for Explainable Recommendation.
+  CIKM 2020
+
+- Explainable Recommender Systems via Resolving Learning Representations.
+  CIKM 2020
+
+- Generate Neural Template Explanations for Recommendation.
+  CIKM 2020
+
+- Explainable Recommendation with Comparative Constraints on Product Aspects.
+  WSDM 2021
+
+- Explanation as a Defense of Recommendation.
+  WSDM 2021
+
+- EX^3: Explainable Product Set Recommendation for Comparison Shopping.
+  WWW 2021
+
+- Learning from User Feedback on Explanations to Improve Recommender Models.
+  WWW 2021
+
