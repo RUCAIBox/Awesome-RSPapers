@@ -380,3 +380,50 @@
 
 - Personalized Approximate Pareto-Efficient Recommendation.
   WWW 2021
+
+
+### Other Task
+- Hierarchical Fashion Graph Network for Personalized Outfit Recommendation.
+  SIGIR 2020
+
+- Octopus: Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates.
+  SIGIR 2020
+
+- Goal-driven Command Recommendations for Analysts.
+  RecSys 2020
+
+- MultiRec: A Multi-Relational Approach for Unique Item Recommendation in Auction Systems.
+  RecSys 2020
+
+- PURS: Personalized Unexpected Recommender System for Improving User Satisfaction.
+  RecSys 2020
+
+- RecSeats: A Hybrid Convolutional Neural Network Choice Model for Seat Recommendations at Reserved Seating Venues.
+  RecSys 2020
+
+- Live Multi-Streaming and Donation Recommendations via Coupled Donation-Response Tensor Factorization.
+  CIKM 2020
+
+- Learning to Recommend from Sparse Data via Generative User Feedback.
+  AAAI 2021
+
+- Real-time Relevant Recommendation Suggestion.
+  WSDM 2021
+
+- Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks.
+  WSDM 2021
+
+- FINN: Feedback Interactive Neural Network for Intent Recommendation.
+  WWW 2021
+
+- Drug Package Recommendation via Interaction-aware Graph Induction.
+  WWW 2021
+
+- Large-scale Comb-K Recommendation.
+  WWW 2021
+
+- Variation Control and Evaluation for Generative Slate Recommendations.
+  WWW 2021
+
+- Diversified Recommendation Through Similarity-Guided Graph Neural Networks.
+  WWW 2021
