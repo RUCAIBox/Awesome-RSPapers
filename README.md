@@ -481,3 +481,27 @@
 
 - Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
   WWW 2021
+
+
+### Fairness in Recommender System
+- Fairness-Aware Explainable Recommendation over Knowledge Graphs.
+  SIGIR 2020
+
+- Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance.
+  RecSys 2020
+
+- Fairness-Aware News Recommendation with Decomposed Adversarial Learning.
+  AAAI 2021
+  news
+
+- Practical Compositional Fairness Understanding Fairness in Multi-Component Recommender Systems.
+  WSDM 2021
+
+- Towards Long-term Fairness in Recommendation.
+  WSDM 2021
+
+- Learning Fair Representations for Recommendation: A Graph-based Perspective.
+  WWW 2021
+
+- User-oriented Group Fairness In Recommender Systems.
+  WWW 2021
