@@ -300,3 +300,26 @@
 
 - Leveraging Review Properties for Effective Recommendation.
   WWW 2021
+
+
+### POI
+- HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation.
+  SIGIR 2020
+
+- Spatial Object Recommendation with Hints: When Spatial Granularity Matters.
+  SIGIR 2020
+
+- Geography-Aware Sequential Location Recommendation.
+  KDD 2020 
+
+- Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation.
+  CIKM 2020
+
+- STP-UDGAT Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation.
+  CIKM 2020
+
+- STAN: Spatio-Temporal Attention Network for next Point-of-Interest Recommendation.
+  WWW 2021
+
+- Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching.
+  WWW 2021
