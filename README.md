@@ -642,3 +642,27 @@
 - Reinforcement Recommendation with User Multi-aspect Preference.
   WWW 2021
 
+
+### Knowledge Distillation in Recommendations
+- Privileged Features Distillation at Taobao Recommendations.
+  KDD 2020
+
+- DE-RRD: A Knowledge Distillation Framework for Recommender System.
+  CIKM 2020
+
+- Bidirectional Distillation for Top-K Recommender System.
+  WWW 2021
+
+
+### NAS in Recommendations
+- Neural Input Search for Large Scale Recommendation Models.
+  KDD 2020
+
+- Field-aware Embedding Space Searching in Recommender Systems.
+  WWW 2021
+
+
+### Federated Learning in Recommendations
+- FedFast Going Beyond Average for Faster Training of Federated Recommender Systems.
+  KDD 2020
+
