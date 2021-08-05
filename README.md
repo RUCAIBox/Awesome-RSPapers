@@ -615,11 +615,41 @@ Technique
 -   S\^3-Rec: Self-Supervised Learning for Sequential Recommendation
     with Mutual Information Maximization. CIKM 2020
 
+-   Self-supervised Learning for Large-scale Item Recommendations. arXiv 2020
+
 -   U-BERT Pre-Training User Representations for Improved
     Recommendation. AAAI 2021
 
 -   Pre-Training Graph Neural Networks for Cold-Start Users and Items
     Representation. WSDM 2021
+
+-   Augmenting Sequential Recommendation with Pseudo-Prior Items via
+    Reversely Pre-training Transformer. SIGIR 2021
+
+-   Self-supervised Graph Learning for Recommendation. SIGIR 2021
+
+-   Self-Supervised Hypergraph Convolutional Networks for Session-based
+    Recommendation. AAAI 2021
+
+-   Self-Supervised Multi-Channel Hypergraph Convolutional Network
+    for Social Recommendation. WWW 2021
+
+-   Pre-training Graph Transformer with Multimodal Side Information
+    for Recommendation. ACM MM2021
+
+-   SelfCF: A Simple Framework for Self-supervised Collaborative
+    Filtering. arXiv 2021
+
+-   UPRec: User-Aware Pre-training for Recommender Systems. arXiv 2021
+
+-   Curriculum Pre-Training Heterogeneous Subgraph Transformer for
+    Top-N Recommendation. arXiv 2021
+
+-   One4all User Representation for Recommender Systems in
+    E-commerce. arXiv 2021
+
+-   Graph Neural Pre-training for Enhancing Recommendations using
+    Side Information. arXiv 2021
 
 ### Reinforcement Learning in Recommendations
 
