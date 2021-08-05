@@ -711,22 +711,22 @@ Technique
 
 -   A Neural Influence Diffusion Model for Social Recommendation. SIGIR 2019
 
--   Graph Neural Networks for Social Recommendation. WWW 2019.
+-   Graph Neural Networks for Social Recommendation. WWW 2019
 
--   Knowledge Graph Convolutional Networks for Recommender Systems. WWW 2019.
+-   Knowledge Graph Convolutional Networks for Recommender Systems. WWW 2019
 
--   KGAT: Knowledge Graph Attention Network for Recommendation. KDD 2019.
+-   KGAT: Knowledge Graph Attention Network for Recommendation. KDD 2019
 
 -   Session-based recommendation with graph neural networks. AAAI 2019
 
 -   Graph contextualized self-attention network for session-based
-    recommendation. IJCAI 2019.
+    recommendation. IJCAI 2019
 
 -   Session-based social recommendation via dynamic graph attention
-    networks. WSDM 2019.
+    networks. WSDM 2019
 
 -   Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for
-    CTR Prediction. WWW 2019.
+    CTR Prediction. WWW 2019
 
 -   Bundle Recommendation with Graph Convolutional Networks. SIGIR 2020
 
