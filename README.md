@@ -2,7 +2,7 @@ Awesome-RSPapers
 ================
 
 Included Conferences: SIGIR 2020, SIGKDD 2020, RecSys 2020, CIKM 2020,
-AAAI 2021, WSDM 2021, WWW 2021
+AAAI 2021, WSDM 2021, WWW 2021, SIGIR 2021
 
 
 
@@ -46,6 +46,7 @@ AAAI 2021, WSDM 2021, WWW 2021
     -   [NAS in Recommendations](#nas-in-recommendations)
     -   [Federated Learning in
         Recommendations](#federated-learning-in-recommendations)
+    -   [GNN in Recommendations](#gnn-in-Recommendations)
 -   [Analysis](#analysis)
 -   [Other](#other)
 
@@ -703,6 +704,69 @@ Technique
 
 -   FedFast Going Beyond Average for Faster Training of Federated
     Recommender Systems. KDD 2020
+
+### GNN in Recommendations
+
+-   Bundle Recommendation with Graph Convolutional Networks. SIGIR 2020
+
+-   Sequential Recommendation with Graph Convolutional Networks. 
+    SIGIR 2021
+
+-   Structured Graph Convolutional Networks with Stochastic Masks for
+    Recommender Systems. SIGIR 2021
+
+-   Adversarial-Enhanced Hybrid Graph Network for User Identity Linkage.
+    SIGIR 2021
+
+-   Should Graph Convolution Trust Neighbors? A Simple Causal Inference
+    Method. SIGIR 2021
+
+-   A Graph-Convolutional Ranking Approach to Leverage the Relational
+    Aspects of User-Generated Content. SIGIR 2021
+
+-   Relational Learning with Gated and Attentive Neighbor Aggregator for
+    Few-Shot Knowledge Graph Completion. SIGIR 2021
+
+-   Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through
+    Rate Prediction. SIGIR 2021
+
+-   Neural Graph Matching based Collaborative Filtering. SIGIR 2021
+
+-   Modeling Intent Graph for Search Result Diversification. SIGIR 2021
+
+-   User-Centric Path Reasoning towards Explainable Recommendation.
+    SIGIR 2021
+
+-   Joint Knowledge Pruning and Recurrent Graph Convolution for News
+    Recommendation. SIGIR 2021
+
+-   Retrieving Complex Tables with Multi-Granular Graph Representation
+    Learning. SIGIR 2021
+
+-   Privileged Graph Distillation for Cold-start Recommendation. SIGIR 2021
+
+-   Decoupling Representation Learning and Classification for GNN-based
+    Anomaly Detection. SIGIR 2021
+
+-   Meta-Inductive Node Classification across Graphs. SIGIR 2021
+
+-   Self-supervised Graph Learning for Recommendation. SIGIR 2021
+
+-   TIE: A Framework for Embedding-based Incremental Temporal Knowledge
+    Graph Completion. SIGIR 2021
+
+-   Graph Meta Network for Multi-Behavior Recommendation with Interaction
+    Heterogeneity and Diversity. SIGIR 2021
+
+-   AdsGNN: Behavior-Graph Augmented Relevance Modeling in Sponsored Search.
+    SIGIR 2021
+
+-   Enhanced Graph Learning for Collaborative Filtering via Mutual
+    Information Maximization. SIGIR 2021
+
+-   WGCN: Graph Convolutional Networks with Weighted Structural Features.
+    SIGIR 2021
+
 
 Analysis
 --------
