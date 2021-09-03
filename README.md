@@ -235,7 +235,7 @@ Task
 
 -   Motif-aware Sequential Recommendation. SIGIR 2021
 
--   Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation. SIGIR 2021 short
+-   Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation. SIGIR 2021
 
 
 ### Knowledge-aware Recommendations
