@@ -498,6 +498,19 @@ Task
 -   Diversified Recommendation Through Similarity-Guided Graph Neural
     Networks. WWW 2021
 
+-   Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue. SIGIR 2021
+
+-   UGRec: Modeling Directed and Undirected Relations for Recommendation. SIGIR 2021
+
+-   Learning Recommender Systems with Implicit Feedback via Soft Target Enhancement. SIGIR 2021
+
+-   PreSizE: Predicting Size in E-Commerce using Transformers. SIGIR 2021
+
+-   Path-based Deep Network for Candidate Item Matching in Recommenders. SIGIR 2021
+
+-   A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images. SIGIR 2021
+
+
 Topic
 -----
 
