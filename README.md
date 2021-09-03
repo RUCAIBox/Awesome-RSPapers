@@ -105,6 +105,16 @@ Task
 
 -   Disentangling User Interest and Conformity for Recommendation with
     Causal Embedding. WWW 2021
+    
+-   Bootstrapping User and Item Representations for One-Class Collaborative 
+    Filtering. SIGIR 2021
+
+-   When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution. SIGIR 2021
+
+-   Neural Graph Matching based Collaborative Filtering. SIGIR 2021
+
+-   Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization. SIGIR 2021
+
 
 ### Sequential/Session-based Recommendations
 
@@ -206,6 +216,27 @@ Task
 
 -   Linear-Time Self Attention with Codeword Histogram for Efficient
     Recommendation. WWW 2021
+    
+-   Category-aware Collaborative Sequential Recommendation. SIGIR 2021
+
+-   Sequential Recommendation with Graph Convolutional Networks. SIGIR 2021
+
+-   Dual Attention Transfer in Session-based Recommendation with Multi Dimensional Integration. SIGIR 2021
+
+-   Unsupervised Proxy Selection for Session-based Recommender Systems. SIGIR 2021
+
+-   StackRec: Efficient Training of Very Deep Sequential Recommender Models by Iterative Stacking. SIGIR 2021
+
+-   Counterfactual Data-Augmented Sequential Recommendation. SIGIR 2021
+
+-   CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation. SIGIR 2021
+
+-   The World is Binary: Contrastive Learning for Denoising Next Basket Recommendation. SIGIR 2021
+
+-   Motif-aware Sequential Recommendation. SIGIR 2021
+
+-   Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation. SIGIR 2021 short
+
 
 ### Knowledge-aware Recommendations
 
@@ -293,6 +324,12 @@ Task
 
 -   A Workflow Analysis of Context-driven Conversational Recommendation.
     WWW 2021
+    
+-   Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning. SIGIR 2021
+
+-   Learning to Ask Appropriate Questions in Conversational Recommendation. SIGIR 2021
+
+-   Comparison-based Conversational Recommender System with Relative Bandit Feedback. SIGIR 2021
 
 ### Social Recommendations
 
@@ -317,6 +354,11 @@ Task
 
 -   The Interaction between Political Typology and Filter Bubbles in
     News Recommendation Algorithms. WWW 2021
+    
+-   Personalized News Recommendation with Knowledge-aware News Interactions. SIGIR 2021
+
+-   Joint Knowledge Pruning and Recurrent Graph Convolution for News Recommendation. SIGIR 2021
+
 
 ### Text-aware Recommendations
 
@@ -405,6 +447,12 @@ Task
 -   Whole-Chain Recommendations. CIKM 2020
 
 -   Personalized Approximate Pareto-Efficient Recommendation. WWW 2021
+
+-   Federated Collaborative Transfer for Cross-Domain Recommendation. SIGIR 2021
+
+-   Learning Domain Semantics and Cross-Domain Correlations for Paper Recommendation. SIGIR 2021
+
+-   Graph Meta Network for Multi-Behavior Recommendation with Interaction Heterogeneity and Diversity. SIGIR 2021
 
 ### Other Task
 
@@ -501,6 +549,14 @@ Topic
 
 -   Debiasing Career Recommendations with Neural Fair Collaborative
     Filtering. WWW 2021
+    
+-   AutoDebias: Learning to Debias for Recommendation. SIGIR 2021
+
+-   Mitigating Sentiment Bias for Recommender Systems. SIGIR 2021
+
+-   Causal Intervention for Leveraging Popularity Bias in Recommendation. SIGIR 2021
+
+-   Enhanced Doubly Robust Learning for Debiasing Post-Click Conversion Rate Estimation. SIGIR 2021
 
 ### Fairness in Recommender System
 
@@ -523,6 +579,13 @@ Topic
 
 -   User-oriented Group Fairness In Recommender Systems. WWW 2021
 
+-   Personalized Counterfactual Fairness in Recommendation. SIGIR 2021
+
+-   TFROM: A Two-sided Fairness-Aware Recommendation Model for Both Customers and Providers. SIGIR 2021
+
+-   Fairness among New Items in Cold Start Recommender Systems. SIGIR 2021
+
+
 ### Attack in Recommender System
 
 -   Revisiting Adversarially Learned Injection Attacks Against
@@ -540,6 +603,8 @@ Topic
 
 -   Graph Embedding for Recommendation against Attribute Inference
     Attacks. WWW 2021
+    
+-   Fight Fire with Fire: Towards Robust Recommender Systems via Adversarial Poisoning Training. SIGIR 2021
 
 ### Explanation in Recommender System
 
@@ -564,6 +629,12 @@ Topic
 
 -   Learning from User Feedback on Explanations to Improve Recommender
     Models. WWW 2021
+    
+-   On Interpretation and Measurement of Soft Attributes for Recommendation. SIGIR 2021
+
+-   ReXPlug: Explainable Recommendation using Plug-and-Play Language Model. SIGIR 2021
+
+-   User-Centric Path Reasoning towards Explainable Recommendation. SIGIR 2021
 
 ### Long-tail/Cold-start in Recommendations
 
@@ -589,6 +660,16 @@ Topic
 
 -   A Model of Two Tales: Dual Transfer Learning Framework for Improved
     Long-tail Item Recommendation. WWW 2021
+    
+-   Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction. SIGIR 2021
+
+-   FORM: Follow the Online Regularized Meta-Leader for Cold-Start Recommendation. SIGIR 2021
+
+-   Privileged Graph Distillation for Cold-start Recommendation. SIGIR 2021
+
+-   Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks. SIGIR 2021
+
+-   Fairness among New Items in Cold Start Recommender Systems. SIGIR 2021
 
 ### Evaluation
 
@@ -607,6 +688,8 @@ Topic
 
 -   On Target Item Sampling in Offline Recommender System Evaluation.
     RecSys 2020
+    
+-   Standing in Your Shoes: External Assessments for Personalized Recommender Systems. SIGIR 2021
 
 Technique
 ---------
@@ -683,6 +766,10 @@ Technique
 
 -   Reinforcement Recommendation with User Multi-aspect Preference. WWW
     2021
+    
+-   RLNF: Reinforcement Learning based Noise Filtering for Click-Through Rate Prediction. SIGIR 2021
+
+-   Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning. SIGIR 2021
 
 ### Knowledge Distillation in Recommendations
 
