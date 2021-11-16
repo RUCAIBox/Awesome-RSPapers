@@ -35,6 +35,7 @@ AAAI 2021, WSDM 2021, WWW 2021, SIGIR 2021
         System](#explanation-in-recommender-system)
     -   [Long-tail/Cold-start in
         Recommendations](#long-tailcold-start-in-recommendations)
+    -   [Diversity in Recommendations](#diversity-in-recommendations)
     -   [Evaluation](#evaluation)
 -   [Technique](#technique)
     -   [Pre-training in Recommender
@@ -673,7 +674,7 @@ Topic
 
 -   A Model of Two Tales: Dual Transfer Learning Framework for Improved
     Long-tail Item Recommendation. WWW 2021
-    
+
 -   Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction. SIGIR 2021
 
 -   FORM: Follow the Online Regularized Meta-Leader for Cold-Start Recommendation. SIGIR 2021
@@ -683,6 +684,43 @@ Topic
 -   Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks. SIGIR 2021
 
 -   Fairness among New Items in Cold Start Recommender Systems. SIGIR 2021
+
+### Diversity in Recommendations
+
+- Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity. NIPS 2018. [PDF](https://proceedings.neurips.cc/paper/2018/file/dbbf603ff0e99629dda5d75b6f75f966-Paper.pdf)
+
+-   PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation. IJCAI 2019. [PDF](https://www.ijcai.org/proceedings/2019/0537.pdf)
+
+-   Sequential and Diverse Recommendation with Long Tail. IJCAI 2019. [PDF](https://www.ijcai.org/proceedings/2019/0380.pdf)
+
+-   Diversified Interactive Recommendation with Implicit Feedback. AAAI 2020. [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/5931/5787)
+
+-   ART (Attractive Recommendation Tailor): How the Diversity of Product Recommendations Affects Customer Purchase Preference in Fashion Industry. CIKM 2020. [PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3412687?casa_token=pLrkqMKPqS4AAAAA:SROCQTKY_rSZVDJa2gTQf5bRGKky_BJEnNOcXXi0A1nYDNO9cBb1FjmIucxg7NN_K42IZA5RGye3XA)
+
+-   A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks. KDD 2020. [PDF](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254?casa_token=2k8s3JpMHGQAAAAA:KQUJSQl1AT3d_f0ZhIO0PGKqu_NhPMuPS1lULeZqUSI_FqoHMpsrbTFganamJuZtbD1NJj2FU8N1GA)
+
+-   Enhancing Recommendation Diversity using Determinantal Point Processes on Knowledge Graphs. SIGIR 2020. [PDF](https://dl.acm.org/doi/pdf/10.1145/3397271.3401213?casa_token=WLxAwJzJFhwAAAAA:k_i4GlcKpa6xxtdxPfZLuyyVZ_cp61I4C6pf361chyAYvYzWFQeZJjNQ95POg2UiKPECCcaF-hz9YA) 
+
+-   A Hybrid Bandit Framework for Diversified Recommendation. AAAI 2021. [PDF](https://arxiv.org/pdf/2012.13245)
+
+-   On the Diversity and Explainability of Recommender Systems: A Practical Framework for Enterprise App Recommendation.  CIKM 2021. [PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3481940?casa_token=x4k2BTtSkmMAAAAA:J-83ktko4ediMOH7qhGal9GmLiop5gLEUgsmffLKfJK2ITuC6m8SDdKvbG4xnttmjH2gCLL66geyog)
+
+-   P-Companion:  A Principled Framework for Diversified Complementary Product Recommendation. CIKM 2021. [PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3412732)
+
+-   Sliding Spectrum Decomposition for Diversified Recommendation. KDD 2021. [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467108?casa_token=-ODzWqfs760AAAAA:4NO7u-6ARd9lVBIuyiqCN2WKK0QCKbQUCW532MVJduRVV_0dawflyQ1y8YUXaKxMo342KmqF7Q)
+
+-   Enhancing Domain-Level and User-Level Adaptivity in Diversified Recommendation.  SIGIR 2021. [PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462957) 
+
+-   Dynamic Graph Construction for Improving Diversity of Recommendation. RecSys 2021. [PDF](https://dl.acm.org/doi/abs/10.1145/3460231.3478845)
+
+-   Towards Unified Metrics for Accuracy and Diversity for Recommender Systems. RecSys 2021. [PDF](https://dl.acm.org/doi/pdf/10.1145/3460231.3474234)
+
+-   DGCN: Diversified Recommendation with Graph Convolutional Networks.  WWW 2021. [PDF](http://fi.ee.tsinghua.edu.cn/public/publications/b344fd48-92b0-11eb-96bc-0242ac120003.pdf)
+
+-   Future-Aware Diverse Trends Framework for Recommendation. WWW 2021. [PDF](https://arxiv.org/pdf/2011.00422)
+
+-   Random Walks with Erasure: Diversifying Personalized Recommendations on Social and Information Networks.  WWW 2021. [PDF](https://arxiv.org/pdf/2102.09635)
+
 
 ### Evaluation
 
