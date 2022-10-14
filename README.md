@@ -1391,7 +1391,7 @@ Technique
 - Local Collaborative Autoencoders. WSDM 2021 【局部的协同自编码器】
 - Vector-Quantized Autoencoder With Copula for Collaborative Filtering. CIKM 2021【short paper，用于协同过滤的矢量量化自动编码器】
 - Semi-deterministic and Contrastive Variational Graph Autoencoder for Recommendation. CIKM 2021【用于推荐的半确定性和对比变分图自动编码器】
-- Disentangling Preference Representations for Recommendation Critiquing with $$\beta$$-VAE. CIKM 2021【用于推荐的 VAE 偏好表示】
+- Disentangling Preference Representations for Recommendation Critiquing with $\beta$-VAE. CIKM 2021【用于推荐的 VAE 偏好表示】
 - The Interaction Graph Auto-encoder Network Based on Topology-aware for Transferable Recommendation. CIKM 2022 【基于拓扑感知的可迁移推荐交互图自动编码器网络】
 - ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation. CIKM 2022 【用于序列推荐的对比变分自动编码器】
 - Vector-Quantized Autoencoder With Copula for Collaborative Filtering. CIKM 2021【short paper，用于协同过滤的矢量量化自动编码器】
